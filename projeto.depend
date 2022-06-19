@@ -27,3 +27,21 @@
 	<cmath>
 	"sculptor.hpp"
 
+1655669746 source:c:\users\mathe\onedrive\documentos\desenvolvimento\programaÇÃo avanÇada\unidade 2 - final\projeto-parte-1\sculptor.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<fstream>
+	<cmath>
+	"sculptor.hpp"
+
+1655669746 c:\users\mathe\onedrive\documentos\desenvolvimento\programaÇÃo avanÇada\unidade 2 - final\projeto-parte-1\sculptor.hpp
+	"voxel.hpp"
+
+1655669746 c:\users\mathe\onedrive\documentos\desenvolvimento\programaÇÃo avanÇada\unidade 2 - final\projeto-parte-1\voxel.hpp
+	"voxel.hpp"
+
+1655669655 source:c:\users\mathe\onedrive\documentos\desenvolvimento\programaÇÃo avanÇada\unidade 2 - final\projeto-parte-1\main.cpp
+	<iostream>
+	"sculptor.hpp"
+
