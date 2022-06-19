@@ -1,6 +1,6 @@
-# DCA1202-DCA1202-ESCULTOR-DIGITAL
+# DCA1202-ESCULTOR-3D-PARTE-1
 
-Projeto de escultor digital que utiliza conceitos de programação orientada a objetos através da linguagem c++.
+Esta primeira parte do projeto de escultor digital que utiliza conceitos de programação orientada a objetos através da linguagem c++.
 
 O projeto consiste em dois módulos:
 
